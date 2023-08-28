@@ -11,6 +11,7 @@ sudo apt install sway waybar swaylock swayidle swaybg
 
 # Appearance manager (use nwg-look instead)
 # sudo apt install lxappearance
+sudo apt install golang libgtk-3-dev libcairo2-dev libglib2.0-dev
 
 # Networking
 sudo apt install policykit-1-gnome network-manager network-manager-gnome
