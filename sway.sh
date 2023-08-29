@@ -16,9 +16,6 @@ sudo apt install golang libgtk-3-dev libcairo2-dev libglib2.0-dev
 # Networking
 sudo apt install policykit-1-gnome network-manager network-manager-gnome
 
-# Thunar (file manager)
-sudo apt install thunar thunar-archive-plugin thunar-volman file-roller
-
 # terminal
 sudo apt install alacritty
 
@@ -61,6 +58,9 @@ sudo apt install gedit
 
 # Create folders in user directory (eg. Documents,Downloads,etc.)
 xdg-user-dirs-update
+
+# Thunar (file manager)
+sudo apt install thunar thunar-archive-plugin thunar-volman file-roller
 
 # Dependencies for ly
 sudo apt install libpam0g-dev libxcb-xkb-dev
