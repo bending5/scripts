@@ -6,6 +6,7 @@ mkdir -p ~/.local/share/fonts
 cd /tmp
 fonts=( 
 "Hack"  
+"DejaVuSansMono"
 )
 
 for font in ${fonts[@]}
