@@ -14,6 +14,9 @@ sudo apt-get install ligthdm-settings -y
 # theme manager
 sudo apt-get install lxappearance -y
 
+# composer
+sudo apt-get install picom -y
+
 # manage wallpapers
 sudo apt-get install nitrogen -y
 
