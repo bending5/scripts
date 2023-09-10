@@ -22,6 +22,7 @@ sudo apt-get install nitrogen -y
 
 # file namager
 sudo apt-get install thunar -y
+sudo apt-get install file-roller -y
 
 # text editor
 sudo apt-get install gedit -y
